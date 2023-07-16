@@ -1,0 +1,11 @@
+Name of QuantLet: Energy Consumption of Ethereum
+
+Published in: Master Thesis
+
+Description: Calculating the Energy Consumption of the Ethereum-Ecosystem (ETH & ETC) using a novel statistical Approach.
+
+Keywords: energy, sustainability, cryptocurrencies
+
+Author: Patrick Woitschig
+
+Submitted: Monday, 10 of July 2023 by Patrick Woitschig
