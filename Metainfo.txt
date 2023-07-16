@@ -1,4 +1,4 @@
-Name of QuantLet: Energy Consumption of Ethereum
+Name of QuantLet: EnergyConsumptionEthereum
 
 Published in: Master Thesis
 
