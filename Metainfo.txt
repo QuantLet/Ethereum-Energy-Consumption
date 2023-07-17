@@ -8,4 +8,4 @@ Non-negative Matrix  Factorization", Spilak, WK Härdle (2023). Please refer to 
 Keywords: 'NMF, portfolio, tail-risk, trading strategy, cryptocurrency, deep
 learning, machine learning, econometrics'
 
-Author: 'Bruno Spilak'
+Author: 'PW Patrick Woitschig'
