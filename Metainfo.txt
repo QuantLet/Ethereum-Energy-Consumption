@@ -1,11 +1,9 @@
-Name of Quantlet: 'NMFRB'
+Name of Quantlet: 'Ethereum-Energy-Consumption'
 
-Published in: 'Risk budget portfolios with convex Non-negative Matrix  Factorization'
+Published in: '...'
 
-Description: 'We provide results for "Risk budget portfolios with convex
-Non-negative Matrix  Factorization", Spilak, WK Härdle (2023). Please refer to github Wiki for a detailed description on how to use the code!'
+Description: 'We estimate the Energy Consumption of the Ethereum-Ecosystem Pre- and Post Merge and Evaluate different approaches for proof-of-work and proof-of-stake consensus mechanisms'
 
-Keywords: 'NMF, portfolio, tail-risk, trading strategy, cryptocurrency, deep
-learning, machine learning, econometrics'
+Keywords: 'cryptocurrency, ethereum, energy, top-down, bottom-up, proof-of-work, proof-of-stake'
 
-Author: 'PW Patrick Woitschig'
+Author: 'Patrick Woitschig'
